@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'brand-dark': '#0D1117', // Main background
-        'brand-blue': '#3B82F6', // Buttons, accents
+        'brand-dark': '#0D1117',
+        'brand-blue': '#3B82F6',
         'brand-light-blue': '#00A3FF',
         'brand-pink': '#E83E8C',
-        'brand-gray': '#7D8590', // Muted text
-        'brand-border': '#30363D', // Borders
+        'brand-gray': '#7D8590',
+        'brand-border': '#30363D',
       },
       fontFamily: {
         sans: ['"Inter"', 'sans-serif'],
