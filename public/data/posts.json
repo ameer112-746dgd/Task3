@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "How I created a chess subscription application.",
+    "image": "/images/post-featured.png",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper accumsan est, a aliquam nibh. Phasellus felis justo, convallis eget nisi at, consequat luctus felis. Nulla facilisi.",
+    "tags": ["Javascript", "Nextjs", " Stripe"],
+    "date": "12 July 2022",
+    "readTime": "5-7 minutes read"
+  },
+  {
+    "id": 2,
+    "title": "Typescript in 21 steps, best in-depth guide",
+    "image": "/images/post-typescript.png",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper accumsan est, a aliquam nibh. Phasellus felis justo, convallis eget nisi at, consequat luctus felis. Nulla facilisi.",
+    "tags": ["Javascript", "Nextjs", "Typescript"],
+    "date": "11 July 2022",
+    "readTime": "5-7 minutes read"
+  },
+  {
+    "id": 3,
+    "title": "Javascript TDD with ViTE and NextJS",
+    "image": "/images/post-tdd.png",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper accumsan est, a aliquam nibh.",
+    "tags": ["Javascript", "Nextjs", "Vite"],
+    "date": "10 July 2022",
+    "readTime": "5-7 minutes read"
+  },
+  {
+    "id": 4,
+    "title": "Javascript TDD with ViTE and NextJS",
+    "image": "/images/post-tdd.png",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper accumsan est, a aliquam nibh.",
+    "tags": ["Javascript", "Nextjs", "Vite"],
+    "date": "10 July 2022",
+    "readTime": "5-7 minutes read"
+  },
+  {
+    "id": 5,
+    "title": "Javascript TDD with ViTE and NextJS",
+    "image": "/images/post-tdd.png",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ullamcorper accumsan est, a aliquam nibh.",
+    "tags": ["Javascript", "Nextjs", "Vite"],
+    "date": "10 July 2022",
+    "readTime": "5-7 minutes read"
+  }
+]
